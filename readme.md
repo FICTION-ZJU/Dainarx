@@ -2,6 +2,8 @@
 
 Dainarx is a prototypical tool for the derivative-agnostic inference of nonlinear hybrid automata with high-order NARX-modeled dynamics from input-output discrete-time traces of hybrid systems.
 
+The extended version for noisy data: [Dainarx-Noisy](https://anonymous.4open.science/r/Dainarx-noisy-5C87/readme.md).
+
 - Python 3.9
 
 Install the dependencies:
